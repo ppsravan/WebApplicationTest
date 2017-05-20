@@ -1,1 +1,2 @@
 # WebApplicationTest
+Sample application
